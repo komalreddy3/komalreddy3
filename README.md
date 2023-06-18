@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/komalreddy3/komalreddy3/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
