@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=komalreddy3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-</div>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&locale=en&theme=dracula&hide_border=false&border_radius=5"  height="180"/></a>
+</p>
 
 ###
 
