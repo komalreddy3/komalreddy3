@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Komal Reddy K <br><br>Passionate Programmer, Machine Learning Enthusiast , Currently Learning Node.js</h2>
+<h2 align="center">Hi 👋! I am Komal Reddy K <br><br>Passionate Programmer, Machine Learning Enthusiast , Currently Learning ReactJs</h2>
 
 ###
 
