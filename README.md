@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Komal Reddy K <br><br>Passionate Programmer</h2>
+<h2 align="center">Hi 👋! I am Komal Reddy K </h2>
 
 ###
 
