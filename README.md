@@ -9,9 +9,8 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+<!-- START gadpp -->
 
-<!--END_SECTION:activity-->
 
 
 ###
