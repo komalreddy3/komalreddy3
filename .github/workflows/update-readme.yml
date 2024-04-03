@@ -1,17 +1,19 @@
-name: GitHub Activity
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+name: Update GitHub Profile Page
+on: [push]
 
 jobs:
-  build:
+  gadpp_job:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update GitHub Profile Page
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
         env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github-username: 'YOUR_GITHUB_USERNAME'
+          user-email: 'EMAIL_USED_ON_GITHUB'
