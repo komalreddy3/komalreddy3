@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 
-<!-- START gadpp -->
+<!--RECENT_ACTIVITY:start-->
 
-
+<!--RECENT_ACTIVITY:last_update-->
 
 ###
 <div align="center">
