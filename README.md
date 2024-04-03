@@ -1,10 +1,11 @@
 <h2 align="center">Hi 👋! I am Komal Reddy K </h2>
 
 ###
-
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=komalreddy3&column=08"/>
 </a>
+</p>
 
 <p align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=monokai&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
