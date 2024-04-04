@@ -90,9 +90,9 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  
 </div>  
- <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark" height="194" width="200" /> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="194" width="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=komalreddy3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" width="200" alt="languages graph"  />
+ <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark" height="194" width="250" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="194" width="250" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=komalreddy3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" width="250" alt="languages graph"  />
 </div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)]()
