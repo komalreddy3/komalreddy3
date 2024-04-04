@@ -107,7 +107,7 @@
 
 ###
 
- <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite"  /> </p>
+ <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite&hide_border=true"  /> </p>
 
 
 
