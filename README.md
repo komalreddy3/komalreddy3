@@ -121,6 +121,6 @@
   
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)]()
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=react)]()
 
 ###
