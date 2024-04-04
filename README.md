@@ -22,6 +22,12 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  <img width="30" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg' width="40" height="40">
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
@@ -40,6 +46,14 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="30" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg' width="40" height="40">
+  <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="50"/>
+  <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img width="30" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg' width="40" height="40">
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
@@ -52,9 +66,23 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="50"/>
+  <img width="30" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50"/>
+  <img width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img width="30" />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg' width="40" height="40">
+  <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </div>
 
 ###
@@ -87,12 +115,12 @@
 
 <div align="center">
      <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+        <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark"  /> 
+    
  
 </div>  
- <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark" height="194" width="250" /> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="194" width="250" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=komalreddy3&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
 </div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)]()
