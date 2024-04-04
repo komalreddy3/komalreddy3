@@ -114,11 +114,7 @@
 
 
 <div align="center">
-     <div align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark"  /> 
-    
- 
-</div>  
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
 </div>
