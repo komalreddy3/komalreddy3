@@ -9,10 +9,7 @@
 
 
 ###
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark" height="194" /> 
-</div>
+
 
 <img align="right" height="150" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  />
 
@@ -65,6 +62,7 @@
 <br clear="both">
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/komal-reddy-koukuntla-2b9585201/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
@@ -88,7 +86,10 @@
 
 
 <div align="center">
-     
+     <div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark" height="194" /> 
+</div>  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=komalreddy3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
