@@ -106,6 +106,7 @@
   <a href="https://www.facebook.com/koukuntlakomalreddy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="30" alt="facebook logo"  />
   </a>
+  <a href="http://discord.com/users/KomalReddyK#8674" target="blank"><img  src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" alt="KomalReddyK#8674" height="30" /></a>&nbsp;
 </div>
 
 ###
