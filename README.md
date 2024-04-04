@@ -113,7 +113,7 @@
 
 ###
 
- <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite&hide_border=true"  /> <img align="right" height="150" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  /></p>
+ <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite&hide_border=true"  /> <img height="150" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  /></p>
 
 
 
