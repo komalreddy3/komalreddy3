@@ -1,10 +1,12 @@
-<h2 align="center">Hi 👋! I am Komal Reddy K </h2>
+<h2 align="center">Hi 👋! I am Komal Reddy K </h2> 
 
 ###
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=komalreddy3&column=08"/>
 </a>
+  
+ 
 </p>
 
 
@@ -90,7 +92,8 @@
 <br clear="both">
 
 <div align="center">
-
+  
+  ![](https://komarev.com/ghpvc/?username=komalreddy3&label=Profile%20Visits&color=blue&style=for-the-badge)
   <a href="https://www.linkedin.com/in/komal-reddy-koukuntla-2b9585201/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
