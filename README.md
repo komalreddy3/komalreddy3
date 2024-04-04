@@ -1,5 +1,5 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=214&lines=Hi+👋!;I+am+Komal+Reddy+K" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=900&pause=300&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=275&lines=Hi+👋!;;I+am+Komal+Reddy+K" alt="Typing SVG" /></a>
 </h1>
 
 ###
@@ -15,7 +15,7 @@
 ###
 
 
-<img align="right" height="150" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  />
+
 
 ###
 
@@ -113,7 +113,7 @@
 
 ###
 
- <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite&hide_border=true"  /> </p>
+ <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=graywhite&hide_border=true"  /> <img align="right" height="150" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  /></p>
 
 
 
