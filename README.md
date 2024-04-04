@@ -107,16 +107,21 @@
 
 ###
 
-
-
-
-
-
-
  <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=komalreddy3&combine_all_yearly_contributions=true&limit=5&theme=dark"  /> </p>
+
+<a href="https://github.com/komalreddy3/komalreddy3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalreddy3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/komalreddy3/komalreddy3">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="komal's GitHub Stats" />
+</a>
+
+
+
+
+
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=komalreddy3&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=komalreddy3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)]()
 
