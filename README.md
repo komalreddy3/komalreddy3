@@ -93,6 +93,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=komalreddy3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=high-contrast)]
 
 ###
