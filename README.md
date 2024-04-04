@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! I am Komal Reddy K </h2> 
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1920&height=214&lines=Hi+👋!;I+am+Komal+Reddy+K" alt="Typing SVG" /></a>
+</h1>
 
 ###
 <p align="center">
