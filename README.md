@@ -122,6 +122,6 @@
   
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&theme=react)]()
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=komalreddy3&bg_color=000000&color=fffa70&line=ffffff&point=ffeb66&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
